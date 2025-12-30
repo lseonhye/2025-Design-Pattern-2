@@ -1,4 +1,4 @@
-package org.example.designpattern2.decorator.ex.designtwocoffee;
+package org.example.designpattern2.designtwocoffee;
 
 public class Milk extends CoffeeDecorator {
 

@@ -1,4 +1,4 @@
-package org.example.designpattern2.decorator.ex.designtwocoffee.strategy;
+package org.example.designpattern2.designtwocoffee.strategy;
 
 public class KakaoPayment implements PaymentStrategy {
     @Override

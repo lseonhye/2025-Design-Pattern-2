@@ -20,12 +20,11 @@
 //    }
 //}
 
-package org.example.designpattern2.decorator.ex.designtwocoffee;
+package org.example.designpattern2.designtwocoffee;
 
-import org.example.designpattern2.decorator.ex.designtwocoffee.strategy.KakaoPayment;
-import org.example.designpattern2.decorator.ex.designtwocoffee.strategy.NaverPayment;
-import org.example.designpattern2.decorator.ex.designtwocoffee.strategy.PaymentStrategy;
-import org.example.designpattern2.decorator.ex.designtwocoffee.strategy.CardPayment;
+import org.example.designpattern2.designtwocoffee.strategy.KakaoPayment;
+import org.example.designpattern2.designtwocoffee.strategy.NaverPayment;
+import org.example.designpattern2.designtwocoffee.strategy.PaymentStrategy;
 
 public class Main {
     public static void main(String[] args) {
